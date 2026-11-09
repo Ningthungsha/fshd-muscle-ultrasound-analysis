@@ -1,0 +1,13 @@
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[server]
+headless = true
+
+[theme]
+base = "light"
+backgroundColor = "#F8F5EE"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#121212"
+font = "sans serif"
