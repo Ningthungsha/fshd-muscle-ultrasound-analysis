@@ -25,7 +25,7 @@ This project implements a hybrid machine learning pipeline that:
 
 ---
 
-## 🩺 Heckmatt Clinical Grading Scale
+##  Heckmatt Clinical Grading Scale
 
 | Grade | Disease Status | Muscle Ultrasound Appearance | Deep Bone Reflection |
 | :---: | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ This project implements a hybrid machine learning pipeline that:
 
 ---
 
-## 🖥️ Web Application (Streamlit Dashboard)
+##  Web Application (Streamlit Dashboard)
 
 The web dashboard is built with a Neo-Brutalist interface divided into 5 modules:
 
@@ -75,7 +75,7 @@ Aggregates scan results across multiple muscles and generates downloadable diagn
 
 ---
 
-## ⚙️ How It Works (Pipeline)
+##  How It Works (Pipeline)
 
 ![End-to-End System Architecture Pipeline](docs/system_architecture.png)
 
@@ -92,7 +92,7 @@ The automated diagnostic workflow processes raw ultrasound B-mode scans across s
 
 ---
 
-## 📊 Benchmark Results
+##  Benchmark Results
 
 Evaluated on 361 clinical scans across 110 subjects using 5-Fold Stratified GroupKFold (patient-level split to prevent data leakage):
 
@@ -110,7 +110,7 @@ Evaluated on 361 clinical scans across 110 subjects using 5-Fold Stratified Grou
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -144,7 +144,7 @@ Evaluated on 361 clinical scans across 110 subjects using 5-Fold Stratified Grou
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone & Setup Environment
 
@@ -186,3 +186,16 @@ python train_pure_vision_engine.py
 - **Medical Feature Extraction:** PyRadiomics, Scikit-Image, OpenCV
 - **Web App:** Streamlit, Plotly
 - **Data & Processing:** NumPy, Pandas, SciPy
+---
+
+## Team Members
+
+This project was developed collaboratively by the following team members:
+
+1. [Ningthungsha](https://github.com/Ningthungsha)
+2. [Raj Rathod](https://github.com/rajrathod1233)
+3. [Borngamsha](https://github.com/borngamsha)
+4. [Wangli](https://github.com/Wangli762)
+5. [Pritam Das](https://github.com/pritamdas7)
+6. [Roy Khartu](https://github.com/RoyKhartu-sys)
+
